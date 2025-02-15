@@ -1,17 +1,17 @@
-<pre>• Home
+<pre>• Home ✅
 
 • Costumes
   ├───Store
   ├───Purchasable
-  ├───Quest
+  ├───Quest ✅
   ├───Level Based
   ├───Unlockable
   ├───Unobtainable
   └───Miscellaneous
 
 • Game Unlocks
-  ├───BedWars
-  ├───Block Drop
+  ├───BedWars ✅
+  ├───Block Drop ✅
   ├───Block Party
   ├───Capture the Flag
   ├───Death Run
@@ -24,15 +24,15 @@
   ├───SkyWars
   ├───Survival Games
   ├───The Bridge
-  ├───Treasure Wars
-  ├───Ghost Invasion
+  ├───Treasure Wars ✅
+  ├───Ghost Invasion ✅
   ├───Mob Game
   ├───Snow Wars
   └───Sonic Party Games
 
 • Hub Cosmetics
   ├───Back Blings
-  ├───Hats
+  ├───Hats ✅
   ├───Mounts
   └───Pets
 
